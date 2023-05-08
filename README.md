@@ -24,12 +24,12 @@ python 3.10.2 - rest in requirements.txt .
 ## Web Application Summary:
 This application will be an online diary system to monitor what 
 the user has learned on certain topics. It will allow users to save 
-information of interest and thus add entries to the journal when 
-learning a new topic. After logging in, the user will be able to 
+information of interest and thus add entries to the journal when they 
+are learning a new topic. After log in, the user will be able to 
 create a new topic, add a new entry, as well as read and edit existing 
-entries. When you learn a new topic, keeping a diary of what you've 
-learned can be helpful in monitoring your progress and reviewing 
-the information you've gathered.
+entries. When you learn a new topic, keeping the diary of what you've 
+learned can be helpful in the monitoring of your progress and in 
+the reviewing of the information you've gathered.
 
 ## Version:
 - This is version 1.00 of the application.
