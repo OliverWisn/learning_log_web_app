@@ -1,3 +1,10 @@
 from django.db import models
 
-# Create your models here.
+class Topic(models.Model):
+    """The topic that the user is learning."""
+    text = models.Charfield(max_lenght=200)
+    date_added = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        """Returns the string representation of the model."""
+        return self.text
