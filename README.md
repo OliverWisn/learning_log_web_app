@@ -20,6 +20,8 @@ python 3.10.2 - rest in requirements.txt .
 ## Remarks:
 - I make this script so that the master branch has always the 
   functioning code.
+- Username for superuser (admin) is superuser. Password for superuser: 
+  mysecretpassword .
 
 ## Web Application Summary:
 This application will be an online diary system to monitor what 
